@@ -1,0 +1,11 @@
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\bin\Debug\Blockchain1.exe.config
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\bin\Debug\Blockchain1.exe
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\bin\Debug\Blockchain1.pdb
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\obj\Debug\Blockchain1.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\obj\Debug\Blockchain1.Form1.resources
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\obj\Debug\Blockchain1.Properties.Resources.resources
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\obj\Debug\Blockchain1.csproj.GenerateResource.Cache
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\obj\Debug\Blockchain1.exe
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\obj\Debug\Blockchain1.pdb
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\bin\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\Blockchain1\Blockchain1\bin\Debug\Blockchain.pdb

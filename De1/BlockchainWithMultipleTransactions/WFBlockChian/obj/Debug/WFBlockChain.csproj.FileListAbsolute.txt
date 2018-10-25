@@ -24,3 +24,6 @@ E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockCh
 E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.exe
 E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.pdb
 E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.pdb
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe.config
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.exe
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.pdb
