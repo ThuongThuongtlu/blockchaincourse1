@@ -1,0 +1,19 @@
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainCourse\bin\Debug\BlockchainCourse.exe.config
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainCourse\bin\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainCourse\bin\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainCourse\obj\Debug\BlockchainCourse.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainCourse\obj\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainCourse\obj\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainCourse\bin\Debug\BlockchainCourse.exe.config
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainCourse\bin\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainCourse\bin\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\bin\Debug\BlockchainCourse.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\bin\Debug\BlockchainCourse.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\bin\Debug\BlockchainCourse.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.csprojAssemblyReference.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainCourse\obj\Debug\BlockchainCourse.pdb

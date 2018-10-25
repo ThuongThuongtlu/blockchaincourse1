@@ -1,0 +1,12 @@
+E:\TaiLieuHocTap\NET\Blockchain\Blockchain\bin\Debug\Blockchain.exe.config
+E:\TaiLieuHocTap\NET\Blockchain\Blockchain\obj\Debug\Blockchain.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\Blockchain\Blockchain\bin\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\Blockchain\Blockchain\bin\Debug\Blockchain.pdb
+E:\TaiLieuHocTap\NET\Blockchain\Blockchain\obj\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\Blockchain\Blockchain\obj\Debug\Blockchain.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\Blockchain\bin\Debug\Blockchain.exe.config
+E:\TaiLieuHocTap\NET\QuanLySinhVien\Blockchain\obj\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\Blockchain\obj\Debug\Blockchain.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\Blockchain\bin\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\Blockchain\bin\Debug\Blockchain.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\Blockchain\obj\Debug\Blockchain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,43 @@
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe.config
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.Form1.resources
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.Properties.Resources.resources
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csproj.GenerateResource.Cache
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe.config
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.Form1.resources
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.Properties.Resources.resources
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csproj.GenerateResource.Cache
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csprojAssemblyReference.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.Form1.resources
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.Properties.Resources.resources
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csproj.GenerateResource.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csproj.CopyComplete
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.pdb

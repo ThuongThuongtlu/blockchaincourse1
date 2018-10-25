@@ -1,0 +1,34 @@
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.exe.config
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.pdb
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.exe
+E:\TaiLieuHocTap\NET\Blockchain\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.csprojResolveAssemblyReference.cache
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.exe.config
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.exe
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.pdb
+E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainWithMultipleTransactions.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\BlockchainCourse.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.pdb
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\bin\Debug\Blockchain.exe.config
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.csprojAssemblyReference.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.csproj.CopyComplete
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.exe
+C:\Users\NGUYEN SON\Desktop\QuanLySinhVien\BlockchainWithMultipleTransactions\obj\Debug\BlockchainWithMultipleTransactions.pdb
