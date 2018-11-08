@@ -23,6 +23,15 @@ namespace WFBlockChain
         {
             InitializeComponent();
         }
+        public bool Isnumber(string pvalue)
+        {
+            foreach (Char c in pvalue)
+            {
+                if (!Char.IsDigit(c))
+                    return false;
+            }
+            return true;
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             
@@ -30,6 +39,8 @@ namespace WFBlockChain
             string b = this.txtMaSach.Text.Trim();
             string c = this.txtNguoiMuon.Text.Trim();
             DateTime d = Convert.ToDateTime(this.txtNgayTra.Text.Trim());
+            if (Isnumber(this.txtChiphi.Text.Trim()) == false)
+                throw new InvalidOperationException("Lỗi nhập");
             double f = Convert.ToDouble(this.txtChiphi.Text.Trim());
             //int lan = 1;
             //for (int g = 0; g < block1.Transaction.Count(); g++)
@@ -42,6 +53,7 @@ namespace WFBlockChain
             //        if (chain.Blocks[k].Transaction[z].MSV == a && chain.Blocks[k].Transaction[z].MaMon == b)
             //            lan++;
             //}
+            
             ITransaction x = new Transaction(a, b,c, DateTime.Now, d,f, ClaimType.TotalLoss);
             if (!string.IsNullOrEmpty(a) && !string.IsNullOrEmpty(b)&&!string.IsNullOrEmpty(c) &&
                 !string.IsNullOrEmpty(this.txtNgayTra.Text.Trim())&& f>0)
@@ -54,7 +66,6 @@ namespace WFBlockChain
                 }
                 else
                 {
-                    MessageBox.Show("Số Trans vượt quá 5!!");
                     if (i == 0)
                         block1.SetBlockHash(null);
                     else
@@ -68,9 +79,8 @@ namespace WFBlockChain
                 dataGrird.DataSource = null;
                 this.dataGrird.DataSource = block1.Transaction;
             }
-
             else
-                MessageBox.Show("loi nhap!!");
+                throw new InvalidOperationException("Lỗi nhập");
         }
 
         private void btclear_Click(object sender, EventArgs e)
@@ -84,6 +94,8 @@ namespace WFBlockChain
 
         private void Show_Click(object sender, EventArgs e)
         {
+            if(Isnumber(this.txtnumblock.Text.Trim())==false)
+                throw new InvalidOperationException("Lỗi nhập");
             int num = Convert.ToInt32(this.txtnumblock.Text.Trim());
             if (chain.Blocks.Count < num)
                 MessageBox.Show("Lỗi!!");
@@ -182,6 +194,8 @@ namespace WFBlockChain
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            if (Isnumber(this.txtnumblock.Text.Trim()) == false)
+                throw new InvalidOperationException("Lỗi nhập");
             int num = Convert.ToInt32(this.txtnumblock.Text.Trim());
             chain.Blocks[num].BuildMerkleTree();
             MessageBox.Show(chain.Blocks[num].GetMerkleTree());
@@ -189,10 +203,13 @@ namespace WFBlockChain
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (Isnumber(this.txtnumblock.Text.Trim()) == false)
+                throw new InvalidOperationException("Lỗi nhập");
             int num = Convert.ToInt32(this.txtnumblock.Text.Trim());
-            MessageBox.Show("Block      " + chain.Blocks[num].BlockNumber +
-                "\n" + "Blockhash       " + chain.Blocks[num].BlockHash + "\n" +
-                "BlockPrevious      " + chain.Blocks[num].PreviousBlockHash);
+            MessageBox.Show("Block: "+ chain.Blocks[num].BlockNumber +
+                "\nBlockhash: " + chain.Blocks[num].BlockHash + "\n" +
+                "BlockPrevious: " + chain.Blocks[num].PreviousBlockHash 
+                +"\nCreatDate: " + chain.Blocks[num].CreatedDate);
         }
     }
 }

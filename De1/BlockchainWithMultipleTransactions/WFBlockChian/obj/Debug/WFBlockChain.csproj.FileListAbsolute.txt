@@ -27,3 +27,13 @@ E:\TaiLieuHocTap\NET\QuanLySinhVien\BlockchainWithMultipleTransactions\WFBlockCh
 E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe.config
 E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.exe
 E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.pdb
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.exe
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\WFBlockChian.pdb
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.exe
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.exe
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainCourse.pdb
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\bin\Debug\BlockchainWithMultipleTransactions.pdb
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csprojResolveAssemblyReference.cache
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.Form1.resources
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChian.Properties.Resources.resources
+E:\GITHUB\blockchaincourse\De1\BlockchainWithMultipleTransactions\WFBlockChian\obj\Debug\WFBlockChain.csproj.GenerateResource.Cache
